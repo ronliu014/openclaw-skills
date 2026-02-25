@@ -1,6 +1,6 @@
 # OpenClaw Skills Collection
 
-Ronliu 的 OpenClaw 自定义技能集合。
+Ron Liu 的 OpenClaw 自定义技能集合。
 
 ## 📦 Skills 列表
 
@@ -63,7 +63,7 @@ MIT License
 
 ## 👤 作者
 
-Ronliu (ronliu014)
+Ron Liu (ronliu014)
 - GitHub: [@ronliu014](https://github.com/ronliu014)
 - Email: 66141975@qq.com
 
