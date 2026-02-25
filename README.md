@@ -72,3 +72,6 @@ Ron Liu (ronliu014)
 感谢 OpenClaw 项目提供的强大平台。
 
 ## Test
+## 🔐 Token Configuration
+
+GitHub Personal Access Token has been configured for secure authentication.
